@@ -1,0 +1,1 @@
+This repository is the first website project I will have created for the Odin Project. By the end of this project, I aim to have demonstrated the website-building skills that I have picked up from completing the Odin Project.
